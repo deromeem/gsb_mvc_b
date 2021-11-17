@@ -1,7 +1,7 @@
 ﻿<?php
 /** 
  * Classe d'accès aux données. 
- 
+ * bonjour
  * Utilise les services de la classe PDO pour l'application GSB
  * Les attributs sont tous statiques : les 4 premiers concernent la connexion à la base de données
  * $monPdo de type PDO 
