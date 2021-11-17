@@ -44,6 +44,7 @@ class PdoGsb{
 	}
 /**
  * Retourne les informations d'un visiteur
+ * les valeurs son retournées en tant que paramètre
  
  * @param $login 
  * @param $mdp
