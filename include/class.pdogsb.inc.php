@@ -55,7 +55,9 @@ class PdoGsb{
 		// $req = "select visiteur.id as id, visiteur.nom as nom, visiteur.prenom as prenom from visiteur 
 		// where visiteur.login='$login' and visiteur.mdp='$mdp'";
 		// $rs = PdoGsb::$monPdo->query($req);
+		// mdrrrrrr
 		// testGL
+		// test
 
 		echo('getInfoV : ' . $mdp);    // DEBUG
 		
